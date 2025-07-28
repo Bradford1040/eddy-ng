@@ -13,7 +13,7 @@ This is a standalone `eddy-ng` repository, intended to be integrated into your o
 
 Questions? Come ask on the Sovol 3D Printers Discord at `https://discord.gg/Zg45rA52G7` in the eddy-ng forum. (Nothing Sovol-specific in `eddy-ng`, just where all this work started! You can also find the server via the Discover tab in Discord, then Sovol 3D Printers)
 
-You can also file issues in [this `eddy-ng` github repo](https://github.com/vvuk/eddy-ng/issues).
+You can also file issues in [this `eddy-ng` github repo](https://github.com/Bradford1040/eddy-ng/issues).
 
 ## Installation
 
@@ -21,7 +21,7 @@ You can also file issues in [this `eddy-ng` github repo](https://github.com/vvuk
 
 ```
 cd ~
-git clone https://github.com/vvuk/eddy-ng
+git clone https://github.com/Bradford1040/eddy-ng
 ```
 
 2. Run the install script:
