@@ -44,3 +44,4 @@ cd ~/eddy-ng
 git pull
 ./install.sh
 ```
+Special thanks to Vladimir Vukicevic aka [vvuk](https://github.com/vvuk) of GitHub for original creation!
