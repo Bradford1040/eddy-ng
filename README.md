@@ -1,5 +1,7 @@
 # eddy-ng
 
+> ***Note: October 2025 -- life has gotten quite busy lately, so I've been much slower to respond to issues and make updates. Apologies, will get back to it soon!***
+
 eddy-ng improves the Eddy current probe support in Klipper to add accurate Z-offset setting by physically making contact with the build surface. These probes are very accurate, but suffer from drifts due to changes in conductivity in the target surface as well as changes in coil parameters as temperatures change. Instead of doing temperature compensation (which is guesswork at best), eddy-ng takes a more physical approach:
 
 1. Calibration is performed at any temperature (cold).
@@ -13,7 +15,7 @@ This is a standalone `eddy-ng` repository, intended to be integrated into your o
 
 Questions? Come ask on the Sovol 3D Printers Discord at `https://discord.gg/Zg45rA52G7` in the eddy-ng forum. (Nothing Sovol-specific in `eddy-ng`, just where all this work started! You can also find the server via the Discover tab in Discord, then Sovol 3D Printers)
 
-You can also file issues in [this `eddy-ng` github repo](https://github.com/Bradford1040/eddy-ng/issues).
+You can also file issues in [this `eddy-ng` github repo](https://github.com/vvuk/eddy-ng/issues).
 
 ## Installation
 
@@ -21,7 +23,7 @@ You can also file issues in [this `eddy-ng` github repo](https://github.com/Brad
 
 ```
 cd ~
-git clone https://github.com/Bradford1040/eddy-ng
+git clone https://github.com/vvuk/eddy-ng
 ```
 
 2. Run the install script:
@@ -44,4 +46,4 @@ cd ~/eddy-ng
 git pull
 ./install.sh
 ```
-Special thanks to Vladimir Vukicevic aka [vvuk](https://github.com/vvuk) of GitHub for original creation!
+
