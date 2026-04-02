@@ -1,6 +1,0 @@
-config WANT_EDDY_NG
-    bool "Include eddy-ng ldc1612 support"
-
-config WANT_EDDY_NG_DEBUG
-    bool "Enable verbose eddy-ng logging"
-    depends on WANT_EDDY_NG

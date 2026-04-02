@@ -1,0 +1,4 @@
+numpy
+plotly
+scipy
+git+file:///C:/GitHub/kalico@bleeding-edge-v2#egg=kalico

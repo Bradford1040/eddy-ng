@@ -1,3 +1,9 @@
 {
-    "reportOptionalMemberAccess": false
+    "reportOptionalMemberAccess": false,
+    "executionEnvironments": [
+        {
+            "root": ".",
+            "extraPaths": ["../klipper"]
+        }
+    ]
 }

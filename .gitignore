@@ -4,3 +4,6 @@
 *~
 *.orig
 *.rej
+.venv/
+__pycache__/
+

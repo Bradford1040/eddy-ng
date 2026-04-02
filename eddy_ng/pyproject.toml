@@ -1,5 +1,5 @@
 [project]
-name = "probe-eddy-ng"
+name = "probe-eddy_ng"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.12"
